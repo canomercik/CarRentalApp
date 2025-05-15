@@ -73,7 +73,7 @@ The Windows Forms UI provides:
 
 * [@canomercik](https://github.com/canomercik) – C# UI design & backend integration
 * [@Draster2k](https://github.com/Draster2k) – Database design & ER modeling
-* **İrem Sıla Alp** – Stored procedures & triggers
+* [@iremsilalp](https://github.com/iremsilalp) – Stored procedures & triggers
 
 ---
 
